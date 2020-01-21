@@ -1,0 +1,12 @@
+.form-control{
+    outline: none !important;
+}
+#list{
+    display: none;
+}
+.container{
+    min-height: 60vh;
+}
+.alert{
+    display: none;
+};
